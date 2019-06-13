@@ -1,0 +1,10 @@
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\bin\Debug\WindowsAppServer.exe.config
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\bin\Debug\WindowsAppServer.exe
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\bin\Debug\WindowsAppServer.pdb
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\obj\Debug\WindowsAppServer.csprojAssemblyReference.cache
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\obj\Debug\WindowsAppServer.Form1.resources
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\obj\Debug\WindowsAppServer.Properties.Resources.resources
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\obj\Debug\WindowsAppServer.csproj.GenerateResource.cache
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\obj\Debug\WindowsAppServer.csproj.CoreCompileInputs.cache
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\obj\Debug\WindowsAppServer.exe
+C:\Users\fberber\source\repos\WindowsAppServer\WindowsAppServer\obj\Debug\WindowsAppServer.pdb
