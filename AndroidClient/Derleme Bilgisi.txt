@@ -1,0 +1,3 @@
+Kullanıcı Intelij de yazılmış android uygulamsını derlemek için Groody isimli projeyi Intelij de açması gerekmektedir.
+Kullanıcı Visual Studio de yazılmış windows uygulamsını derlemek için WindowsAppServer isimli projeyi Visual Studio da açması gerekmektedir.
+Sonrasında ilk oalrak windows uygulması derlendikten sonra android uygulaması derlenerek çalıştırılabilir.
